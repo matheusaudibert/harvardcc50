@@ -1,5 +1,5 @@
+// Minimizar o número de moedas
 #include <stdio.h>
-#include <unistd.h>
 
 int main()
 {
